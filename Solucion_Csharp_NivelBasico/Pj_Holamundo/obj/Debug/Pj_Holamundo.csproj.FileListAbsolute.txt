@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Solucion_Csharp_NivelBasico\Pj_Holamundo\bin\Debug\Pj_Holamundo.exe.config
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Solucion_Csharp_NivelBasico\Pj_Holamundo\bin\Debug\Pj_Holamundo.exe
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Solucion_Csharp_NivelBasico\Pj_Holamundo\bin\Debug\Pj_Holamundo.pdb
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Solucion_Csharp_NivelBasico\Pj_Holamundo\obj\Debug\Pj_Holamundo.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Solucion_Csharp_NivelBasico\Pj_Holamundo\obj\Debug\Pj_Holamundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Solucion_Csharp_NivelBasico\Pj_Holamundo\obj\Debug\Pj_Holamundo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Solucion_Csharp_NivelBasico\Pj_Holamundo\obj\Debug\Pj_Holamundo.exe
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Solucion_Csharp_NivelBasico\Pj_Holamundo\obj\Debug\Pj_Holamundo.pdb

@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Csharp_nivelBasico\ingresar_digito\ingresar_digito\bin\Debug\ingresar_digito.exe.config
+C:\Users\DELL\Desktop\Csharp_nivelBasico\ingresar_digito\ingresar_digito\bin\Debug\ingresar_digito.exe
+C:\Users\DELL\Desktop\Csharp_nivelBasico\ingresar_digito\ingresar_digito\bin\Debug\ingresar_digito.pdb
+C:\Users\DELL\Desktop\Csharp_nivelBasico\ingresar_digito\ingresar_digito\obj\Debug\ingresar_digito.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\ingresar_digito\ingresar_digito\obj\Debug\ingresar_digito.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\ingresar_digito\ingresar_digito\obj\Debug\ingresar_digito.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\ingresar_digito\ingresar_digito\obj\Debug\ingresar_digito.exe
+C:\Users\DELL\Desktop\Csharp_nivelBasico\ingresar_digito\ingresar_digito\obj\Debug\ingresar_digito.pdb

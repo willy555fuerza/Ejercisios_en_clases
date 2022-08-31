@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\Csharp_nivelBasico\capicua\capicua\obj\Debug\net6.0\capicua.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\capicua\capicua\obj\Debug\net6.0\capicua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Csharp_nivelBasico\capicua\capicua\obj\Debug\net6.0\capicua.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\capicua\capicua\obj\Debug\net6.0\capicua.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Csharp_nivelBasico\capicua\capicua\obj\Debug\net6.0\capicua.csproj.CoreCompileInputs.cache

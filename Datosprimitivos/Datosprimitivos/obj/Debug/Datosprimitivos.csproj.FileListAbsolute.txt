@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Datosprimitivos\Datosprimitivos\bin\Debug\Datosprimitivos.exe.config
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Datosprimitivos\Datosprimitivos\bin\Debug\Datosprimitivos.exe
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Datosprimitivos\Datosprimitivos\bin\Debug\Datosprimitivos.pdb
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Datosprimitivos\Datosprimitivos\obj\Debug\Datosprimitivos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Datosprimitivos\Datosprimitivos\obj\Debug\Datosprimitivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Datosprimitivos\Datosprimitivos\obj\Debug\Datosprimitivos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Datosprimitivos\Datosprimitivos\obj\Debug\Datosprimitivos.exe
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Datosprimitivos\Datosprimitivos\obj\Debug\Datosprimitivos.pdb

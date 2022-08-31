@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Primitivoswill\Primitivoswill\bin\Debug\Primitivoswill.exe.config
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Primitivoswill\Primitivoswill\bin\Debug\Primitivoswill.exe
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Primitivoswill\Primitivoswill\bin\Debug\Primitivoswill.pdb
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Primitivoswill\Primitivoswill\obj\Debug\Primitivoswill.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Primitivoswill\Primitivoswill\obj\Debug\Primitivoswill.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Primitivoswill\Primitivoswill\obj\Debug\Primitivoswill.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Primitivoswill\Primitivoswill\obj\Debug\Primitivoswill.exe
+C:\Users\DELL\Desktop\Csharp_nivelBasico\Primitivoswill\Primitivoswill\obj\Debug\Primitivoswill.pdb
