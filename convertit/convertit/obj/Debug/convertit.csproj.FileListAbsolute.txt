@@ -1,0 +1,8 @@
+C:\Users\DELL\Desktop\Csharp_nivelBasico\convertit\convertit\bin\Debug\convertit.exe.config
+C:\Users\DELL\Desktop\Csharp_nivelBasico\convertit\convertit\bin\Debug\convertit.exe
+C:\Users\DELL\Desktop\Csharp_nivelBasico\convertit\convertit\bin\Debug\convertit.pdb
+C:\Users\DELL\Desktop\Csharp_nivelBasico\convertit\convertit\obj\Debug\convertit.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\convertit\convertit\obj\Debug\convertit.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\convertit\convertit\obj\Debug\convertit.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Csharp_nivelBasico\convertit\convertit\obj\Debug\convertit.exe
+C:\Users\DELL\Desktop\Csharp_nivelBasico\convertit\convertit\obj\Debug\convertit.pdb
